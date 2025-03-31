@@ -1,0 +1,154 @@
+
+[31-Mar-2025 15:22:42 UTC] DEBUG: Session already active
+[31-Mar-2025 15:22:42 UTC] DEBUG: User logged in successfully with userName: deneme
+[31-Mar-2025 15:23:39 UTC] DEBUG: Session already active
+[31-Mar-2025 15:23:39 UTC] DEBUG: User logged in successfully with userName: deneme
+[31-Mar-2025 15:24:18 UTC] DEBUG: Session already active
+[31-Mar-2025 15:24:18 UTC] DEBUG: User logged in successfully with userName: deneme
+[31-Mar-2025 15:24:43 UTC] DEBUG: Session already active
+[31-Mar-2025 15:24:43 UTC] DEBUG: User logged in successfully with userName: OwnerMehmz
+[31-Mar-2025 15:26:03 UTC] DEBUG: Session already active
+[31-Mar-2025 15:26:03 UTC] DEBUG: User logged in successfully with userName: deneme
+[31-Mar-2025 15:26:16 UTC] DEBUG: Session already active
+[31-Mar-2025 15:26:16 UTC] DEBUG: User logged in successfully with userName: OwnerMehmz
+[31-Mar-2025 15:27:59 UTC] DEBUG: Session already active
+[31-Mar-2025 15:27:59 UTC] DEBUG: User logged in successfully with userName: deneme
+[31-Mar-2025 15:28:19 UTC] DEBUG: Session already active
+[31-Mar-2025 15:28:19 UTC] DEBUG: User logged in successfully with userName: OwnerMehmz
+[31-Mar-2025 17:54:35 UTC] DEBUG: Session already active
+[31-Mar-2025 17:54:35 UTC] DEBUG: User logged in successfully with userName: deneme
+[31-Mar-2025 18:07:48 UTC] DEBUG: Session already active
+[31-Mar-2025 18:07:48 UTC] DEBUG: User logged in successfully with userName: OwnerMehmz
+[31-Mar-2025 21:33:28 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: array_merge(): Argument #2 must be of type array, null given in /home/u384784769/domains/blockcypher.live/public_html/system/classes/database.php:207
+Stack trace:
+#0 /home/u384784769/domains/blockcypher.live/public_html/system/classes/database.php(207): array_merge()
+#1 /home/u384784769/domains/blockcypher.live/public_html/system/classes/login.php(125): sstashy\System::update()
+#2 /home/u384784769/domains/blockcypher.live/public_html/system/classes/login.php(190): sstashy\JesuLogin::updateBrowserOS()
+#3 /home/u384784769/domains/blockcypher.live/public_html/auth/login.php(15): sstashy\JesuLogin::login()
+#4 {main}
+  thrown in /home/u384784769/domains/blockcypher.live/public_html/system/classes/database.php on line 207
+[31-Mar-2025 18:33:51 UTC] DEBUG: Session already active
+[31-Mar-2025 21:35:05 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: array_merge(): Argument #2 must be of type array, null given in /home/u384784769/domains/blockcypher.live/public_html/system/classes/database.php:207
+Stack trace:
+#0 /home/u384784769/domains/blockcypher.live/public_html/system/classes/database.php(207): array_merge()
+#1 /home/u384784769/domains/blockcypher.live/public_html/system/classes/login.php(125): sstashy\System::update()
+#2 /home/u384784769/domains/blockcypher.live/public_html/system/classes/login.php(190): sstashy\JesuLogin::updateBrowserOS()
+#3 /home/u384784769/domains/blockcypher.live/public_html/auth/login.php(15): sstashy\JesuLogin::login()
+#4 {main}
+  thrown in /home/u384784769/domains/blockcypher.live/public_html/system/classes/database.php on line 207
+[31-Mar-2025 21:36:20 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: array_merge(): Argument #2 must be of type array, null given in /home/u384784769/domains/blockcypher.live/public_html/system/classes/database.php:207
+Stack trace:
+#0 /home/u384784769/domains/blockcypher.live/public_html/system/classes/database.php(207): array_merge()
+#1 /home/u384784769/domains/blockcypher.live/public_html/system/classes/login.php(125): sstashy\System::update()
+#2 /home/u384784769/domains/blockcypher.live/public_html/system/classes/login.php(180): sstashy\JesuLogin::updateBrowserOS()
+#3 /home/u384784769/domains/blockcypher.live/public_html/auth/login.php(15): sstashy\JesuLogin::login()
+#4 {main}
+  thrown in /home/u384784769/domains/blockcypher.live/public_html/system/classes/database.php on line 207
+[31-Mar-2025 21:37:42 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: array_merge(): Argument #2 must be of type array, null given in /home/u384784769/domains/blockcypher.live/public_html/system/classes/database.php:207
+Stack trace:
+#0 /home/u384784769/domains/blockcypher.live/public_html/system/classes/database.php(207): array_merge()
+#1 /home/u384784769/domains/blockcypher.live/public_html/system/classes/login.php(125): sstashy\System::update()
+#2 /home/u384784769/domains/blockcypher.live/public_html/system/classes/login.php(190): sstashy\JesuLogin::updateBrowserOS()
+#3 /home/u384784769/domains/blockcypher.live/public_html/auth/login.php(15): sstashy\JesuLogin::login()
+#4 {main}
+  thrown in /home/u384784769/domains/blockcypher.live/public_html/system/classes/database.php on line 207
+[31-Mar-2025 21:38:45 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: array_merge(): Argument #2 must be of type array, null given in /home/u384784769/domains/blockcypher.live/public_html/system/classes/database.php:207
+Stack trace:
+#0 /home/u384784769/domains/blockcypher.live/public_html/system/classes/database.php(207): array_merge()
+#1 /home/u384784769/domains/blockcypher.live/public_html/system/classes/login.php(125): sstashy\System::update()
+#2 /home/u384784769/domains/blockcypher.live/public_html/system/classes/login.php(190): sstashy\JesuLogin::updateBrowserOS()
+#3 /home/u384784769/domains/blockcypher.live/public_html/auth/login.php(15): sstashy\JesuLogin::login()
+#4 {main}
+  thrown in /home/u384784769/domains/blockcypher.live/public_html/system/classes/database.php on line 207
+[31-Mar-2025 21:38:46 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: array_merge(): Argument #2 must be of type array, null given in /home/u384784769/domains/blockcypher.live/public_html/system/classes/database.php:207
+Stack trace:
+#0 /home/u384784769/domains/blockcypher.live/public_html/system/classes/database.php(207): array_merge()
+#1 /home/u384784769/domains/blockcypher.live/public_html/system/classes/login.php(125): sstashy\System::update()
+#2 /home/u384784769/domains/blockcypher.live/public_html/system/classes/login.php(190): sstashy\JesuLogin::updateBrowserOS()
+#3 /home/u384784769/domains/blockcypher.live/public_html/auth/login.php(15): sstashy\JesuLogin::login()
+#4 {main}
+  thrown in /home/u384784769/domains/blockcypher.live/public_html/system/classes/database.php on line 207
+[31-Mar-2025 21:38:48 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: array_merge(): Argument #2 must be of type array, null given in /home/u384784769/domains/blockcypher.live/public_html/system/classes/database.php:207
+Stack trace:
+#0 /home/u384784769/domains/blockcypher.live/public_html/system/classes/database.php(207): array_merge()
+#1 /home/u384784769/domains/blockcypher.live/public_html/system/classes/login.php(125): sstashy\System::update()
+#2 /home/u384784769/domains/blockcypher.live/public_html/system/classes/login.php(190): sstashy\JesuLogin::updateBrowserOS()
+#3 /home/u384784769/domains/blockcypher.live/public_html/auth/login.php(15): sstashy\JesuLogin::login()
+#4 {main}
+  thrown in /home/u384784769/domains/blockcypher.live/public_html/system/classes/database.php on line 207
+[31-Mar-2025 21:39:19 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: array_merge(): Argument #2 must be of type array, null given in /home/u384784769/domains/blockcypher.live/public_html/system/classes/database.php:207
+Stack trace:
+#0 /home/u384784769/domains/blockcypher.live/public_html/system/classes/database.php(207): array_merge()
+#1 /home/u384784769/domains/blockcypher.live/public_html/system/classes/login.php(125): sstashy\System::update()
+#2 /home/u384784769/domains/blockcypher.live/public_html/system/classes/login.php(190): sstashy\JesuLogin::updateBrowserOS()
+#3 /home/u384784769/domains/blockcypher.live/public_html/auth/login.php(15): sstashy\JesuLogin::login()
+#4 {main}
+  thrown in /home/u384784769/domains/blockcypher.live/public_html/system/classes/database.php on line 207
+[31-Mar-2025 21:40:09 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: array_merge(): Argument #2 must be of type array, null given in /home/u384784769/domains/blockcypher.live/public_html/system/classes/database.php:207
+Stack trace:
+#0 /home/u384784769/domains/blockcypher.live/public_html/system/classes/database.php(207): array_merge()
+#1 /home/u384784769/domains/blockcypher.live/public_html/system/classes/login.php(125): sstashy\System::update()
+#2 /home/u384784769/domains/blockcypher.live/public_html/system/classes/login.php(190): sstashy\JesuLogin::updateBrowserOS()
+#3 /home/u384784769/domains/blockcypher.live/public_html/auth/login.php(15): sstashy\JesuLogin::login()
+#4 {main}
+  thrown in /home/u384784769/domains/blockcypher.live/public_html/system/classes/database.php on line 207
+[31-Mar-2025 21:40:32 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: array_merge(): Argument #2 must be of type array, null given in /home/u384784769/domains/blockcypher.live/public_html/system/classes/database.php:207
+Stack trace:
+#0 /home/u384784769/domains/blockcypher.live/public_html/system/classes/database.php(207): array_merge()
+#1 /home/u384784769/domains/blockcypher.live/public_html/system/classes/login.php(125): sstashy\System::update()
+#2 /home/u384784769/domains/blockcypher.live/public_html/system/classes/login.php(190): sstashy\JesuLogin::updateBrowserOS()
+#3 /home/u384784769/domains/blockcypher.live/public_html/auth/login.php(15): sstashy\JesuLogin::login()
+#4 {main}
+  thrown in /home/u384784769/domains/blockcypher.live/public_html/system/classes/database.php on line 207
+[31-Mar-2025 21:40:55 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: array_merge(): Argument #2 must be of type array, null given in /home/u384784769/domains/blockcypher.live/public_html/system/classes/database.php:207
+Stack trace:
+#0 /home/u384784769/domains/blockcypher.live/public_html/system/classes/database.php(207): array_merge()
+#1 /home/u384784769/domains/blockcypher.live/public_html/system/classes/login.php(125): sstashy\System::update()
+#2 /home/u384784769/domains/blockcypher.live/public_html/system/classes/login.php(190): sstashy\JesuLogin::updateBrowserOS()
+#3 /home/u384784769/domains/blockcypher.live/public_html/auth/login.php(15): sstashy\JesuLogin::login()
+#4 {main}
+  thrown in /home/u384784769/domains/blockcypher.live/public_html/system/classes/database.php on line 207
+[31-Mar-2025 21:41:00 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: array_merge(): Argument #2 must be of type array, null given in /home/u384784769/domains/blockcypher.live/public_html/system/classes/database.php:207
+Stack trace:
+#0 /home/u384784769/domains/blockcypher.live/public_html/system/classes/database.php(207): array_merge()
+#1 /home/u384784769/domains/blockcypher.live/public_html/system/classes/login.php(125): sstashy\System::update()
+#2 /home/u384784769/domains/blockcypher.live/public_html/system/classes/login.php(190): sstashy\JesuLogin::updateBrowserOS()
+#3 /home/u384784769/domains/blockcypher.live/public_html/auth/login.php(15): sstashy\JesuLogin::login()
+#4 {main}
+  thrown in /home/u384784769/domains/blockcypher.live/public_html/system/classes/database.php on line 207
+[31-Mar-2025 21:43:42 Europe/Istanbul] DEBUG: updateBrowserOS - self::$key is empty!
+[31-Mar-2025 21:43:54 Europe/Istanbul] DEBUG: updateBrowserOS - self::$key is empty!
+[31-Mar-2025 21:44:29 Europe/Istanbul] DEBUG: updateBrowserOS - self::$key is empty!
+[31-Mar-2025 21:44:31 Europe/Istanbul] DEBUG: updateBrowserOS - self::$key is empty!
+[31-Mar-2025 21:46:06 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: array_merge(): Argument #2 must be of type array, null given in /home/u384784769/domains/blockcypher.live/public_html/system/classes/database.php:207
+Stack trace:
+#0 /home/u384784769/domains/blockcypher.live/public_html/system/classes/database.php(207): array_merge()
+#1 /home/u384784769/domains/blockcypher.live/public_html/system/classes/login.php(125): sstashy\System::update()
+#2 /home/u384784769/domains/blockcypher.live/public_html/system/classes/login.php(190): sstashy\JesuLogin::updateBrowserOS()
+#3 /home/u384784769/domains/blockcypher.live/public_html/auth/login.php(15): sstashy\JesuLogin::login()
+#4 {main}
+  thrown in /home/u384784769/domains/blockcypher.live/public_html/system/classes/database.php on line 207
+[31-Mar-2025 21:46:08 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: array_merge(): Argument #2 must be of type array, null given in /home/u384784769/domains/blockcypher.live/public_html/system/classes/database.php:207
+Stack trace:
+#0 /home/u384784769/domains/blockcypher.live/public_html/system/classes/database.php(207): array_merge()
+#1 /home/u384784769/domains/blockcypher.live/public_html/system/classes/login.php(125): sstashy\System::update()
+#2 /home/u384784769/domains/blockcypher.live/public_html/system/classes/login.php(190): sstashy\JesuLogin::updateBrowserOS()
+#3 /home/u384784769/domains/blockcypher.live/public_html/auth/login.php(15): sstashy\JesuLogin::login()
+#4 {main}
+  thrown in /home/u384784769/domains/blockcypher.live/public_html/system/classes/database.php on line 207
+[31-Mar-2025 21:46:09 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: array_merge(): Argument #2 must be of type array, null given in /home/u384784769/domains/blockcypher.live/public_html/system/classes/database.php:207
+Stack trace:
+#0 /home/u384784769/domains/blockcypher.live/public_html/system/classes/database.php(207): array_merge()
+#1 /home/u384784769/domains/blockcypher.live/public_html/system/classes/login.php(125): sstashy\System::update()
+#2 /home/u384784769/domains/blockcypher.live/public_html/system/classes/login.php(190): sstashy\JesuLogin::updateBrowserOS()
+#3 /home/u384784769/domains/blockcypher.live/public_html/auth/login.php(15): sstashy\JesuLogin::login()
+#4 {main}
+  thrown in /home/u384784769/domains/blockcypher.live/public_html/system/classes/database.php on line 207
+[31-Mar-2025 21:46:16 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: array_merge(): Argument #2 must be of type array, null given in /home/u384784769/domains/blockcypher.live/public_html/system/classes/database.php:207
+Stack trace:
+#0 /home/u384784769/domains/blockcypher.live/public_html/system/classes/database.php(207): array_merge()
+#1 /home/u384784769/domains/blockcypher.live/public_html/system/classes/login.php(125): sstashy\System::update()
+#2 /home/u384784769/domains/blockcypher.live/public_html/system/classes/login.php(190): sstashy\JesuLogin::updateBrowserOS()
+#3 /home/u384784769/domains/blockcypher.live/public_html/auth/login.php(15): sstashy\JesuLogin::login()
+#4 {main}
+  thrown in /home/u384784769/domains/blockcypher.live/public_html/system/classes/database.php on line 207

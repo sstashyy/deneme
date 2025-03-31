@@ -1,0 +1,18 @@
+RewriteEngine on
+RewriteCond %{SCRIPT_FILENAME} !-d
+RewriteCond %{SCRIPT_FILENAME} !-f
+
+RewriteRule ^login$ /auth/login.php [L]
+RewriteRule ^register$ /auth/register.php [L]
+RewriteRule ^dashboard$ /index.php [L]
+RewriteRule ^announcement$ /index.php?sayfa=duyuru [L]
+RewriteRule ^users$ /index.php?sayfa=users [L]
+RewriteRule ^addcmd$ /index.php?sayfa=komutekle [L]
+RewriteRule ^delcmd$ /index.php?sayfa=komutsil [L]
+RewriteRule ^usecmd$ /index.php?sayfa=komutkullan [L]
+RewriteRule ^logs$ /index.php?sayfa=logs [L]
+
+RewriteRule ^logout$ /system/logout.php [L]
+
+DirectoryIndex index.html index.shtml index.htm index.php
+Options -Indexes
